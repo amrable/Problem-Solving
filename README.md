@@ -6,4 +6,7 @@ So this repo is for people practicing problem solving and search for answers whe
 
 
 Backtracking
--  [8 Queens](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=691) [answer](https://github.com/amrfahmyy/Problem-Solving/blob/master/backtracking/8queens.cpp)
+- [Problems and Resources](https://github.com/amrfahmyy/Problem-Solving/tree/master/backtracking)
+
+DSU 
+- [Problems and Resources](https://github.com/amrfahmyy/Problem-Solving/tree/master/DSU)
