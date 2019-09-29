@@ -12,3 +12,6 @@ Backtracking
 
 DSU 
 - [Problems and Resources](https://github.com/amrfahmyy/Problem-Solving/tree/master/DSU)
+
+Graphs 
+- [Problems and Resources](https://github.com/amrfahmyy/Problem-Solving/tree/master/graphs)
