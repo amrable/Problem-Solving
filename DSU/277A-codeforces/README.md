@@ -1,5 +1,7 @@
 # Learning Languages
 
+[link](https://codeforces.com/problemset/problem/277/A)
+
 Let's focus on the target of the employer, he needs every language used in the company to be linked to the other languages, and the make sure that all employees know at least 1 language.
 
 1. Create set for each language, and a boolean array to track only the used languages.
